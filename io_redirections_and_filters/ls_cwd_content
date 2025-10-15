@@ -1,0 +1,18 @@
+total 64
+-rw-rw-rw-  1 codespace codespace   12 Oct 15 09:21 *\\'Best School'\\*$\?\*\*\*\*\*:)
+drwxrwxrwx+ 2 codespace codespace 4096 Oct 15 10:13 .
+drwxrwxrwx+ 6 codespace root      4096 Oct 15 07:28 ..
+-rwxrwxrwx  1 codespace codespace   32 Oct 15 07:30 0-hello_world
+-rwxrwxrwx  1 codespace codespace   28 Oct 15 08:05 1-confused_smiley
+-rwxrwxrwx  1 codespace codespace   28 Oct 15 08:11 2-hellofile
+-rwxrwxrwx  1 codespace codespace   39 Oct 15 08:13 3-twofiles
+-rwxrwxrwx  1 codespace codespace   35 Oct 15 08:17 4-lastlines
+-rwxrwxrwx  1 codespace codespace   35 Oct 15 08:19 5-firstlines
+-rwxrwxrwx  1 codespace codespace   40 Oct 15 08:21 6-third_line
+-rwxrwxrwx  1 codespace codespace   79 Oct 15 09:58 7-file
+-rwxrwxrwx  1 codespace codespace   36 Oct 15 10:12 8-cwd_state
+-rw-rw-rw-  1 codespace codespace   73 Oct 15 08:07 README.md
+-rw-rw-rw-  1 codespace codespace   40 Oct 15 09:31 \*\\'"Best
+-rw-rw-rw-  1 codespace codespace   12 Oct 15 09:59 \*\\'"Best School"'\\*$\?\*\*\*\*\*:)
+-rw-rw-rw-  1 codespace codespace  728 Oct 15 08:24 iacta
+-rw-rw-rw-  1 codespace codespace    0 Oct 15 10:13 ls_cwd_content
